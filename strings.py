@@ -39,3 +39,16 @@ print(string * 5)
 # [start: stop: step]
 str = "Hello World"
 print(str[:5])
+print(str[5:])
+# [start index: stop index: step(default is one)]
+print(str[0:8:2])
+
+# reversing a string
+print(str[::-1])
+
+url = "http://google.com"
+url2 = "http://wikipedia.com"
+# start: stop: step
+slice = slice(7, -4)
+print(url[slice])
+print(url2[slice])

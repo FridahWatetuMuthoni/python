@@ -38,3 +38,4 @@ print(string * 5)
 # using indexing[] or slice()
 # [start: stop: step]
 str = "Hello World"
+print(str[:5])

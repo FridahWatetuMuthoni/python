@@ -1,0 +1,4 @@
+Over time, your Mac likely accumulates heaps and heaps of files. 
+As you create, download, and save documents, your entire filesystem can become cluttered and fussy.
+Even those who carefully manicure a deep file tree system need help locating files from time to time. 
+For files buried in sub-folders, knowing the file path can be a critical shortcut to finding the document you need quickly.

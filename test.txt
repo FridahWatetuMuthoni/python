@@ -1,0 +1,4 @@
+Yoooooooooooooooooooh man 
+This is some text
+Have a good one
+Just using the append method to append some text without overwritting the file

@@ -2,12 +2,12 @@
 import time
 # ***************************************************************************
 print(time.ctime(0))    # convert a time expressed in seconds since epoch to a readable string
-#                                        epoch = when your computer thinks time began (reference point)
+#epoch = when your computer thinks time began (reference point)
 print(time.time())      # return current seconds since epoch
 print(time.ctime(time.time())) # will get current time
 
 # ***************************************************************************
-# time.strftime(format, time_object) = formats a time_object to a string
+#time.strftime(format, time_object) = formats a time_object to a string
 # time_object = time.localtime() # local time
 # time_object = time.gmtime()  # UTC time
 # local_time = time.strftime("%B %d %Y %H:%M:%S", time_object)
